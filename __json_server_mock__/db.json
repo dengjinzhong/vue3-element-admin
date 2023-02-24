@@ -1,0 +1,12 @@
+{
+  "system-menu": [
+    {
+      "id": 1,
+      "code": "home",
+      "name": "首页",
+      "path": "home",
+      "pid": -1,
+      "type": "1"
+    }
+  ]
+}
